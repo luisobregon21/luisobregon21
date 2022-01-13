@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Luis</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
 
 <!--
 **luisobregon21/luisobregon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
