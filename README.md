@@ -16,6 +16,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" /></p>
 
+| Repository | Description |
+| --- | --- |
+| [ holbertonschool-higher_level_programming](https://github.com/luisobregon21/holbertonschool-higher_level_programming) | Python3, Object-Oriented Programming, interpreted languages, test driven deveplopment, SQL, MySQL, HTML, CSS, JSON, jQuery and Unit Testing |
+| [ holbertonschool-low_level_programming](https://github.com/luisobregon21/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
+| [ holbertonschool-system_engineering-devops](https://github.com/luisobregon21/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
+
 <!--
 **luisobregon21/luisobregon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
