@@ -12,7 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luiscolon0426" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" /></p>
 
