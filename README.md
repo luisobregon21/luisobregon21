@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps**
 - 🔭 I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR**
-- 🌋 Born in the beautiful land of lakes and Volcanoes: **Nicaragua 🇳🇮** and Raised in ** The Bay 🌉**
+- 🌋 Born in the beautiful land of lakes and Volcanoes: **Nicaragua 🇳🇮** and Raised in **The Bay 🌉**
 <br>
 
 <img src="https://imgur.com/0RBg77l.gif" width="950" height="470" />
