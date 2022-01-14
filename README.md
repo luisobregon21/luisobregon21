@@ -17,7 +17,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=450 height=190/></p>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=400 height=190/></p>
 
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=450 height=200/></p>
 
