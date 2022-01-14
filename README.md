@@ -25,6 +25,19 @@
 | [ holbertonschool-low_level_programming](https://github.com/luisobregon21/holbertonschool-low_level_programming) | C programming, functions, pointers, data structures (stacks/queues, singly/doubly linked list, hash tables, binary trees), algorithms(sorting, Big O), bit manipulation, recursion, variadic functions, memory management, heap/stack, static/dynamic libraries |
 | [ holbertonschool-system_engineering-devops](https://github.com/luisobregon21/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 
+<br />
+<br />
+
+---
+
+
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22hslwa2wlcb5ne7ufy6le4ai)
+<br/>
+---
+
 <!--
 **luisobregon21/luisobregon21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
