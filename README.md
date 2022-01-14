@@ -19,10 +19,10 @@
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=400 height=190/></p>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=450 height=200/></p>
+<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=400 height=200/></p>
 
 </br></br></br></br></br></br></br></br>
- <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisobregon21&theme=radical" alt="luisobregon21" width= 450 height=200/> </p>
+ <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisobregon21&theme=radical" alt="luisobregon21" width= 400 height=200/> </p>
 </br>
 
 ---
