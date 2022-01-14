@@ -26,16 +26,7 @@
 | [ holbertonschool-system_engineering-devops](https://github.com/luisobregon21/holberton-system_engineering-devops) | Linux permissions, redirections, syscalls, loops, conditions and parsing, processes and signals, SSH |
 
 <br />
-<br />
 
----
-
-
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/22hslwa2wlcb5ne7ufy6le4ai)
-<br/>
 ---
 
 <!--
