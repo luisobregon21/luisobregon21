@@ -42,9 +42,9 @@
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
 <p align="center">
-	<a href="https://github.com/luisobregon21"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/luis-o-45951b126/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/luis.obregon21/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/luisobregon21"><img src="https://icons-for-free.com/iconfiles/png/512/code+collaboration+github+network+round+social+icon-1320086084536018107.png" alt="GitHub" width = 50px></a>
+	<a href="https://www.linkedin.com/in/luis-o-45951b126/"><img src="https://www.takefiveconsulting.com/wp-content/uploads/2018/10/LinkedIn-logo.png" alt="LinkedIn" width = 50px></a>
+	<a href="https://www.instagram.com/luis.obregon21/"><img src="https://www.nicepng.com/png/full/356-3563301_instagram-instagram-circle-icon.png" alt="Instagram" width = 50px></a>
 </p>
 
 ---
