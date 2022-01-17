@@ -3,8 +3,10 @@
 <h3 align="center">An aspiring Software Engineer, ready to learn</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
 
-- 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming,System engineering, DevOps**
+- 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps**
+
 - 🔭 I’m currently on my **Third thrimester of my foundation year @holbertonschoolPR**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
+
 - 🌋 Born in the beautiful land of lakes and Volcanoes: **Nicaragua 🇳🇮** and Raised in **The Bay 🌉**
 <br>
 
