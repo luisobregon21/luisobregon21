@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Luis Obregon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
-<h3 align="center"><a href="https://docs.google.com/document/d/1MctI-jRidMupMcXB5MCL4S34qKS9SI56FV0MM3zC3mo/edit?usp=sharing">[Resume]</a></h3>
+<h3 align="center"><a href="https://docs.google.com/document/d/1UsUKwPjq-gsFOrPrf1KGLoju2g_bCifY/edit?usp=sharing&ouid=116468822400608931049&rtpof=true&sd=true">[Resume]</a></h3>
 <h3 align="center">An aspiring Software Engineer, ready to learn</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
 
