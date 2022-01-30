@@ -1,6 +1,7 @@
 <h1 align="center"> Hi, I'm Luis Obregon <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h3 align="center"><a href="https://docs.google.com/document/d/1UsUKwPjq-gsFOrPrf1KGLoju2g_bCifY/edit?usp=sharing&ouid=116468822400608931049&rtpof=true&sd=true">[Resume]</a></h3>
-<h3 align="center">An aspiring Software Engineer, ready to learn</h3>
+</p>
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
 
 - 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps**
@@ -8,7 +9,7 @@
 - 🌋 Born in the beautiful land of lakes and Volcanoes: **Nicaragua 🇳🇮** and Raised in **The Bay 🌉**
 <br>
 
-<h3 align="center"> <img src="https://imgur.com/0RBg77l.gif" width="750" height="370" /> </h3>
+<h3 align="center"> <img src="https://imgur.com/0RBg77l.gif" width="950" height="470" /> </h3>
 
 
 <br/>
@@ -39,7 +40,7 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<h3><br>Major projects worked on, in school in order:</h3> 
+<h3 align="center"><br>Major projects worked on, in school in order:</h3> 
   
 | Project name | Description |
 | --- | --- |
@@ -58,8 +59,9 @@
 	<a href="https://www.linkedin.com/in/luis-o-45951b126/">.   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width = 40px></a>
 	<a href="https://www.instagram.com/luis.obregon21/">.     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width = 40px></a>
 
-	
 </p>
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Thank+you+for+stopping+by!;Have+a+nice+day.">
+</h2>
 
 ---
 
