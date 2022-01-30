@@ -15,6 +15,7 @@
 ---
 <details>
  <summary> &#x1f4c8; GitHub Stats</summary>
+	<br>
 
 <p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=400 height=180/></p>
 
