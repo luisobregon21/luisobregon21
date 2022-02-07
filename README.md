@@ -5,7 +5,7 @@
 
 	
 <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=360 height=180/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=400 height=180/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=420 height=180/>
 </p>
 
 </br></br></br></br></br></br></br></br>
