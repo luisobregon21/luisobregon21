@@ -3,29 +3,30 @@
 <a href='./LuisObregon_Resume.pdf'><img src="https://img.shields.io/badge/RESUME-blue?style=for-the-badge"></a>
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=87CEFA&lines=Welcome+To+My+Github!;Hope+you+Enjoy+:)."> </h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=luisobregon21&label=Profile%20views&color=0e75b6&style=flat" alt="luiobregon21" /> </p>
 
-- 🌱 I’m currently learning **Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps**
-- 🔭 I’m currently on my **Third Trimester of my foundation year @holbertonschoolPR working as a Tutor**  <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton">
-- 🌋 Born in the beautiful land of lakes and Volcanoes: **Nicaragua 🇳🇮** and Raised in **The Bay 🌉**
+	
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=400 height=180/></p>
+
+<p align="right"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=460 height=180/></p>
+
+</br></br></br></br></br></br></br></br>
+
+</br>
+<h4> 
+	<img align="right" src="https://imgur.com/0RBg77l.gif" width="500" height="281" /> 
+<ul align="left">
+	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
+	<li>🔭 I’m currently on my third Trimester of my foundation year @holbertonschoolPR working as a Tutor <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
+	<li>🌋 Born in the beautiful land of lakes and Volcanoes: Nicaragua 🇳🇮 and Raised in The Bay 🌉 </li>
+</ul>
+</h4>
+
 <br>
 
-<h3 align="center"> <img src="https://imgur.com/0RBg77l.gif" width="950" height="470" /> </h3>
+<h3 align="center"> </h3>
 
 
 <br/>
----
-<details>
- <summary> &#x1f4c8; GitHub Stats</summary>
-	<br>
 
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisobregon21&show_icons=true&locale=en&layout=compact&theme=radical" alt="luisobregon21" width=400 height=180/></p>
-
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=400 height=180/></p>
-
-</br></br></br></br></br></br></br></br>
- <p> &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisobregon21&theme=radical" alt="luisobregon21" width= 400 height=150/> </p>
-</br>
-</details>
----
 <h3 align="center">Most used Repositories</h3>
 
 | Repository | Description |
