@@ -8,8 +8,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisobregon21&show_icons=true&theme=radical" alt="luisobregon21" width=420 height=180/>
 </p>
 
-</br></br></br></br></br></br></br></br>
-
 </br>
 <h4> 
 	<img align="right" src="https://imgur.com/0RBg77l.gif" width="500" height="281" /> 
