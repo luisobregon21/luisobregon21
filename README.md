@@ -57,10 +57,9 @@
 |[Printf](https://github.com/luisobregon21/printf)| The program is designed to mimic the printf function in C.|
 |[Simple_Shell](https://github.com/luisobregon21/simple_shell)| The program is designed to mimic the abilities of a simple shell. |
 |[Monty](https://github.com/luisobregon21/monty) | Stacks, Queues - LIFO, FIFO |
-|[Sorting Algorithms](https://github.com/luisobregon21/sorting_algorithms)| Sorting algorithms & Big O notation |
-|[AirBnB - The Console](https://github.com/luisobregon21/AirBnB_clone)| Python packages, command interpreter in Python using the cmd module, unit testing and how to implement it in a large project and more|
-|[Binary Trees](https://github.com/luisobregon21/binary_trees)| 16 tasks focused on binary trees|
-|[AirBnB clone - Web framework](https://github.com/luisobregon21/AirBnB_clone_v2)| Build a web framework with flask, define routes in Flask, handle variables in a route, create a HTML response, dynamic templates, and displaying data from MySQL|
+|[AirBnB - The Console](https://github.com/luisobregon21/AirBnB_clone_2)| HolbertonBnB is a complete web application, integrating mysql storage with ORM, a back-end JSON API, and front-end interfacing in a clone of AirBnB. And a console interpreter to work with the classes and that interacts with both, the DB and JSON storages |
+|[DTL - Down To Learn](https://github.com/lork27/dtl-client)| A fully funtional social network that connects two types of users, students and tutors based on their interests. Features includes, login and register as either Tutor or Student, match system between users, Students and Tutors can review each other, user profile with the ability to upload user avatar, portfolio pictures, information, location etc and a chat sytem between connected users |
+<br />
 
 
 ### Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
