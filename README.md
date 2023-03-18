@@ -15,7 +15,7 @@
 	<img align="right" src="https://imgur.com/0RBg77l.gif" width="500" height="281" /> 
 <ul align="left">
 	<li> :seedling: I’m currently learning Low-level programming, Algorithms, Higher-level programming, System engineering, DevOps </li><br/><br/>
-	<li>🔭 I’m currently on my third Trimester of my foundation year @holbertonschoolPR working as a Tutor <img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
+	<li>🔭 I’m currently on my third Trimester of my Machine Learnining specialization year @holbertonschoolPR and working as a Data Engineer<img src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/avatar_profile.jpg" width="20" title="Holberton"> </li><br/><br/>
 	<li>🌋 Born in the beautiful land of lakes and Volcanoes: Nicaragua 🇳🇮 and Raised in The Bay 🌉 </li>
 </ul>
 </h4>
@@ -46,11 +46,20 @@
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-DOCKER-black?style=flat&logo=DOCKER">
-<img src="http://img.shields.io/badge/-FLASK-red?style=flat&logo=FLASK">
+<img src="http://img.shields.io/badge/-TypeScript-white?style=flat&logo=TypeScript">
 <img src="http://img.shields.io/badge/-React-purple?style=flat&logo=REACT">
 <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
+<img src="http://img.shields.io/badge/-Tensorflow-black?style=flat&logo=Tensorflow">
+<img src="http://img.shields.io/badge/-PyTorch-black?style=flat&logo=PyTorch">
+<img src="http://img.shields.io/badge/-Keras-black?style=flat&logo=Keras">
+<img src="http://img.shields.io/badge/-OpenAi-black?style=flat&logo=OpenAi">
+<img src="http://img.shields.io/badge/-Rust-blue?style=flat&logo=Rust">
+<img src="http://img.shields.io/badge/-GraphQl-pink?style=flat&logo=GraphQl">
+<img src="http://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">
+<img src="http://img.shields.io/badge/-AwsAmplify-black?style=flat&logo=AwsAmplify">
 <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
-<img src="http://img.shields.io/badge/-NGINX-green?style=flat&logo=NGINX">
+<img src="http://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
+
 
 <h3 align="center"><br>Major projects worked on, in school in order:</h3> 
   
